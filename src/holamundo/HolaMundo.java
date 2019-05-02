@@ -18,6 +18,7 @@ public class HolaMundo {
         Scanner in = new Scanner(System.in);
         System.out.println("Hola mundo!");
         System.out.println(in.nextLine());
+        System.out.println("Mensaje ejercicio 4");
     }
 
     
